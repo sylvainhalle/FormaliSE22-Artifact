@@ -1,7 +1,7 @@
-ICST 2022 Replication Package
-=============================
+FormaliSE 2022 Replication Package
+==================================
 
-Apart from this Readme, this anonymous repository contains a single file:
+Apart from this Readme, this repository contains a single file:
 `FormaliSE22.ova`. It contains a virtual machine image with a small Linux
 installation called SliTaz. You can import this virtual machine and run it using
 either [VirtualBox](https://virtualbox.org) or VMWare. You need a 64-bit host
