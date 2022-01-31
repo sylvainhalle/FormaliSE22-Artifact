@@ -7,6 +7,9 @@ installation called SliTaz. You can import this virtual machine and run it using
 either [VirtualBox](https://virtualbox.org) or VMWare. You need a 64-bit host
 operating system; the machine is configured to use a maximum of 2 GB of RAM.
 
+Running all the experiments within the virtual machine should take about **3-4
+hours** on a modern computer (e.g. Intel Core i5).
+
 Quick start
 -----------
 
